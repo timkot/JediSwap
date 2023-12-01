@@ -16,7 +16,7 @@ Please try to create bug reports that are:
 
 **Even better: Submit a pull request with a fix or new feature!**
 
-### How to submit a Pull Request
+### How to submit a Pull Request.
 
 1. Search our repository for open or closed
    [Pull Requests](https://github.com/jediswaplabs/JediSwap/pulls)
