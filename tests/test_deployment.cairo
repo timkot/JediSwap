@@ -1,4 +1,4 @@
-%lang starknet
+%lang starkne
 
 @contract_interface
 namespace IERC20 {
