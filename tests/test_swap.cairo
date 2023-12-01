@@ -7,7 +7,7 @@ from starkware.cairo.common.alloc import alloc
 
 from contracts.utils.math import uint256_checked_add, uint256_checked_mul, uint256_checked_sub_le
 
-const MINIMUM_LIQUIDITY = 1000;
+const MINIMUM_LIQUIDITY = 100;
 const BURN_ADDRESS = 1;
 
 @contract_interface
